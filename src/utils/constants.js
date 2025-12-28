@@ -10,4 +10,4 @@ export const options = {
 
 export const Img_url ="https://image.tmdb.org/t/p/w500";
 
-export const Api_key = process.env.API_KEY;
+export const Api_key = import.meta.env.VITE_API_KEY
