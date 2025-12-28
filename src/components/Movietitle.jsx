@@ -1,4 +1,4 @@
-import Moviecards from './moviecards'
+import Moviecards from './Moviecards'
 
 const Movietitle = ({ title, movies }) => {
   return (

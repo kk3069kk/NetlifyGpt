@@ -1,5 +1,5 @@
 import { useSelector } from "react-redux"
-import Movietitle from "./movietitle";
+import Movietitle from "./Movietitle";
 
 const Secondarycomponent = () => {
   const movies = useSelector((store) => store.movies);

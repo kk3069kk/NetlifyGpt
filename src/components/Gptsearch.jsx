@@ -1,6 +1,6 @@
 
-import Gptsearchbar from "./gptsearchbar"
-import Gptsuggestion from "./gptsuggestion"
+import Gptsearchbar from "./Gptsearchbar"
+import Gptsuggestion from "./Gptsuggestion"
 
 const Gptsearch = () => {
   return (
