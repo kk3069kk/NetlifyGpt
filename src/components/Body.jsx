@@ -1,6 +1,6 @@
 import { createBrowserRouter } from "react-router-dom";
 import Login from "./Login.jsx";
-import Browse from "./browse.jsx";
+import Browse from "./Browse.jsx";
 import { RouterProvider } from "react-router-dom";
 import Reactking from "./Reactking.jsx";
 
